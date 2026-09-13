@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+a {
+    display:block;
+    color: white;
+    background-color:gray;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    text-decoration: none;
+}
+a:hover {
+    background-color: rgb(23, 22, 22);
+}
